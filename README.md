@@ -1,7 +1,6 @@
 <h1 align="center"> kyongseo park </h1>
 <h3 align="center"> Hi there 👋</h3>
 <br>
-<br>
 
 <h3 align="center"> 💻 Tech Stack 💻</h3>
 <h4 align="center"> Techs that I've used at least once</h4>
@@ -28,7 +27,6 @@
 
 </p>
 <br>
-<br>
 
 <h3 align="center"> 📫 How to reach me: ...</h3>
 <p align="center">
@@ -42,8 +40,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miro7923&layout=compact)](https://github.com/miro7923/github-readme-stats) -->
 
 <br>
-<br>
-      
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyounggseo&exclude_repo=kyounggseo.github.io&layout=compact&theme=tokyonight" />
 </a>
