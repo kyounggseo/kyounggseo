@@ -35,9 +35,9 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miro7923&layout=compact)](https://github.com/miro7923/github-readme-stats) -->
 
     
-    <a href="s">
+<a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyounggseo&exclude_repo=kyounggseo.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyounggseo&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kyounggseo&theme=tokyonight&show_icons=true" />
 </a>
