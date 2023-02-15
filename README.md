@@ -33,3 +33,11 @@
 
 [![Sia's github stats](https://github-readme-stats.vercel.app/api?username=kyounggseo)](https://github.com/kyounggseo)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miro7923&layout=compact)](https://github.com/miro7923/github-readme-stats) -->
+
+    
+    <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyounggseo&exclude_repo=kyounggseo.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyounggseo&theme=tokyonight&show_icons=true" width="42%" />
+</a>
