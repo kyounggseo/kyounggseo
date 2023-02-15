@@ -22,8 +22,7 @@
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp <br> -->
   <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp <br> -->
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
+
 </p>
 
 <h3 align="center"> 📫 How to reach me: ...</h3>
@@ -32,5 +31,5 @@
   <a href="mailto:pokj930@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
 
-[![Sia's github stats](https://github-readme-stats.vercel.app/api?username=miro7923)](https://github.com/kyounggseo)
+[![Sia's github stats](https://github-readme-stats.vercel.app/api?username=kyounggseo)](https://github.com/kyounggseo)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miro7923&layout=compact)](https://github.com/miro7923/github-readme-stats) -->
