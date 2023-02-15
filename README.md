@@ -6,9 +6,6 @@
 <h3 align="center"> 💻 Tech Stack 💻</h3>
 <h4 align="center"> Techs that I've used at least once</h4>
 
-<br>
-<br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
@@ -33,7 +30,6 @@
 <br>
 <br>
 
-
 <h3 align="center"> 📫 How to reach me: ...</h3>
 <p align="center">
   <a href="https://eesko.tistory.com/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
@@ -44,11 +40,10 @@
 <!--
 [![Sia's github stats](https://github-readme-stats.vercel.app/api?username=kyounggseo)](https://github.com/kyounggseo)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miro7923&layout=compact)](https://github.com/miro7923/github-readme-stats) -->
-<br>
-<br>
 
-    
-    
+<br>
+<br>
+      
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyounggseo&exclude_repo=kyounggseo.github.io&layout=compact&theme=tokyonight" />
 </a>
