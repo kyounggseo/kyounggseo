@@ -1,5 +1,7 @@
 <h1 align="center"> kyongseo park </h1>
-<h3 align="center"> Hi there 👋</h3>
+<h3 align="center"> Hi there 👋 <br>
+  My name is Kyongseo Park! 
+                                   </h3>
 <br>
 
 <h3 align="center"> 💻 Tech Stack 💻</h3>
