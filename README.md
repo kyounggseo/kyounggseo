@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
 </p>
   <br/>
+  <br/>
+ 
 
 ## 📫 How to reach me: ...
 <p align="center">
@@ -52,6 +54,8 @@
   <a href="mailto:pokj930@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
 <br/>
+<br/>
+ 
   
 ## 🐬 Cowork Tools 🐬
 <p>
@@ -62,6 +66,8 @@
 
 <br/>
 <br/>
+<br/>
+ 
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyounggseo&exclude_repo=kyounggseo.github.io&layout=compact&theme=tokyonight" />
